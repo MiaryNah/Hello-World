@@ -181,7 +181,13 @@
       <option name="project" value="LOCAL" />
       <updated>1470994279724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Andrana PhpStorm ts mpoka tsun2">
+      <created>1470994334869</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1470994334869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -223,7 +229,8 @@
     <MESSAGE value="Andrana PhpStorm" />
     <MESSAGE value="Andrana PhpStorm mpoka" />
     <MESSAGE value="Andrana PhpStorm ts mpoka tsun" />
-    <option name="LAST_COMMIT_MESSAGE" value="Andrana PhpStorm ts mpoka tsun" />
+    <MESSAGE value="Andrana PhpStorm ts mpoka tsun2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Andrana PhpStorm ts mpoka tsun2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
