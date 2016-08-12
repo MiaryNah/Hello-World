@@ -10,4 +10,5 @@ class Exemple
 {
     private $nom;
     private $age;
+    mpoka ny code
 }
