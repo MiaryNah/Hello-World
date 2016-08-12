@@ -10,5 +10,5 @@ class Exemple
 {
     private $nom;
     private $age;
-    mpoka ny code
+    private $log="Tsy mpôka tsun";
 }
