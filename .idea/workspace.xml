@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="50a6d8d5-f5e7-43de-a633-04e0318facea" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exemple.php" afterPath="$PROJECT_DIR$/Exemple.php" />
     </list>
     <ignored path="Hello-World.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -176,7 +175,13 @@
       <option name="project" value="LOCAL" />
       <updated>1470993600437</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Andrana PhpStorm ts mpoka tsun">
+      <created>1470994279724</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1470994279724</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -217,7 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Andrana PhpStorm" />
     <MESSAGE value="Andrana PhpStorm mpoka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Andrana PhpStorm mpoka" />
+    <MESSAGE value="Andrana PhpStorm ts mpoka tsun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Andrana PhpStorm ts mpoka tsun" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
