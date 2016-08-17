@@ -1,4 +1,2 @@
-Mandeh a
-Novaiko a
-User: MiaryNah change the readme file
-User: LEKRINGY, manova 1.0
+User: LEKRINGY, manova 1.1
+Ceci est le vrai Readme!
