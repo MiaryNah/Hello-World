@@ -12,4 +12,5 @@ class Exemple
     private $age;
     private $log="Tsy mipôka intsony";
 	private $log_code="Log Branche code_php ";
+	zzz
 }
